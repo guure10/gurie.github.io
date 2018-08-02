@@ -1,0 +1,49 @@
+
+body {
+      font-family: 'Open Sans', sans-serif;
+      background-image:url("bg.png");
+    } 
+ 
+#container {
+      width: 750px;
+      box-shadow: 0px 5px 15px 0px rgba(255,153,153,5.5);
+      border-radius: 10px;
+      margin-left:10%;
+     
+	
+    }
+#My-contact {
+color:green;
+text-decoration:underline;
+line-height:1.5px;
+margin-left:35%;
+text-align:justify;
+}
+
+#Work-exp {
+text-Decoration:blink;
+
+}
+.Dueties{
+background-color:powderblue;
+color:white;
+}
+.list-style{
+list-style-image: url('purple.gif');
+font-style:italic;
+}
+.duration {
+font-weight:bold;
+color:blue;
+line-height:1.5px;
+
+}
+#photo{
+margin-left:35%;
+ box-shadow: 0px 5px 15px 0px rgba(255,153,153,10.5);
+      border-radius: 10px;
+
+} 
+ul {
+     list-style-image: url('purple.gif');
+   }
